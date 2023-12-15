@@ -9,7 +9,7 @@ The BioWF project is a recreation of the Trident Scientific Workbench from MSR b
 This project uses the [JulMar MVVMHelpers library](https://github.com/markjulmar/mvvmhelpers) and [.NET Bio](https://github.com/dotnetbio/bio), both available in NuGet.
 
 ## Examples
-Check out http://julmar.com/blog/mark/?p=323 for a very simple example of how to use it.
+Check out <https://markjulmar.github.io/bio/2013/07/26/introducing-biowf-workflow-bioinformatics-designer.html> for a very simple example of how to use it.
 
 ## Compiling the code
 
